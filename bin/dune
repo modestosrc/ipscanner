@@ -1,0 +1,4 @@
+(executable
+ (public_name ipscan)
+ (name main)
+ (libraries ipscan unix))

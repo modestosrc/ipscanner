@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/ipscan/META"
+  "_build/install/default/lib/ipscan/dune-package"
+  "_build/install/default/lib/ipscan/opam"
+]
+bin: [
+  "_build/install/default/bin/ipscan"
+]
